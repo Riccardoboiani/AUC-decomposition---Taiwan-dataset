@@ -5,5 +5,7 @@ A study by Agus Sudjianto and Alice L. introduced the idea of breaking down AUC 
 
 Instead of relying solely on a single overall score, decomposing AUC/Gini provides insights into where a model consistently struggles or creates imbalances across groups. This perspective supports better monitoring, calibration, and fairness assessments.
 
+The code you will find is inspired from this work: https://github.com/asudjianto-xml/AUC-Decomposition and the paper cited below.
+
 The paper: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5386496
 
